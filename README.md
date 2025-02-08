@@ -1,1 +1,3 @@
-##Neuroplasticity and Corruption in Model Mechanisms: A Case Study Of Indirect Object Identification
+# Neuroplasticity and Corruption in Model Mechanisms: A Case Study Of Indirect Object Identification
+
+Current first iteration of the code the paper titled above. The code is extremely janky and was written for mech interp on google colab. It is a quick and dirty method to reproduce the main results of the paper. We have also linked the datasets that we created to use for fine-tuning and the fine-tuning scripts. Circuit discovery is done in IOIFullCircuit.ipynb and IOICrossModel for cross model activation patching. The dependencies are listed in each colab notebook. We will release a more readable and easily reproducible version of the code soon, including experiments on the greater-than-circuit found in the appendix. 
